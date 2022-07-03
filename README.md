@@ -23,6 +23,6 @@ https://github.com/anuraghazra/github-readme-stats/issues/653
 
 <p><img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs?username=mel-ania&show_icons=true&locale=en&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="mel-ania" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&locale=en&hide=issues,contribs&theme=dracula" alt="mel-ania" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&locale=en&hide=issues,contribs&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="mel-ania" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mel-ania&theme=dracula" alt="mel-ania" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mel-ania&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="mel-ania" /></p>
