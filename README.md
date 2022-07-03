@@ -6,7 +6,7 @@
   <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs?username=mel-ania&langs_count=10&show_icons=true&hide_border=true&locale=en&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff" alt="mel-ania" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=true&locale=en&hide=issues,contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mel-ania" />
+  <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=true&locale=en&hide=issues,contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mel-ania" />
 </a>
 
 <br /><br /><br /><br /><br /><br /><br />
