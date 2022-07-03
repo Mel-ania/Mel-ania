@@ -2,14 +2,8 @@
 <h3 align="center">A creative front-end developer from Italy.</h3>
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs?username=mel-ania&langs_count=10&show_icons=true&hide_border=true&locale=en&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff" alt="mel-ania" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=true&locale=en&hide=issues,contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="mel-ania" />
-</a>
-
-<br /><br /><br /><br /><br /><br /><br />
+![Circuit's GitHub stats](https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=true&hide=issues,contribs&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![Top Languages](https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff)
 
 <p align='right'>
   <i>
@@ -21,6 +15,7 @@
 
 <!--
 https://github.com/anuraghazra/anuraghazra/blob/master/README.md
+https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
 
 ---
 
