@@ -3,7 +3,10 @@
 <br />
 
 ![Circuit's GitHub stats](https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![Top Languages](https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff)
+
+<a href="https://ionicabizau.github.io/github-profile-languages/api.html?mel-ania">
+  <img src="MyLanguages.png" width="400" style="border-radius:50px">
+</a>
 
 <p align='right'>
   <i>
@@ -16,6 +19,7 @@
 <!--
 https://github.com/anuraghazra/anuraghazra/blob/master/README.md
 https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
+![Top Languages](https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff)
 
 ---
 
