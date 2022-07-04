@@ -17,6 +17,7 @@
 <!--
 https://github.com/anuraghazra/anuraghazra/blob/master/README.md
 https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
+https://github.com/IonicaBizau/github-profile-languages
 <a href="https://ionicabizau.github.io/github-profile-languages/api.html?mel-ania">
   <img src="MyLanguages.png" width="400" style="border-radius:50px">
 </a>
