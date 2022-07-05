@@ -1,8 +1,12 @@
 <h1 align="center">Hi 🤙🏻️, I'm Melania</h1>
 <h3 align="center">I'm a super creative girl with tons of ideas!</h3>
+<br />
 
-![Iso Calendar](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)
-![Habits](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg)
+[![Metrics](https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg)](#)
+[![Iso Calendar](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)](#)
+![Langs](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg)
+![Recent Langs](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg)
+[![Habits](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg)](#)
 <br />
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -116,6 +120,4 @@
 https://github.com/anuraghazra/anuraghazra/blob/master/README.md
 https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
 https://github.com/IonicaBizau/github-profile-languages
-https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg
-https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg
 -->
