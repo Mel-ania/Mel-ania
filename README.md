@@ -15,7 +15,7 @@
 <br /><br /><br /><br /><br /><br />
 
 <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
-<img align="right" width="47%" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
+<img align="right" width="55%" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
