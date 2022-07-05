@@ -3,7 +3,7 @@
 <br />
 <img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS"/>
 <br />
-
+<!-- https://github.com/lowlighter/metrics -->
 <img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
 <img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
 <img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
@@ -13,7 +13,7 @@
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br />
-
+<!-- https://github.com/anuraghazra/anuraghazra/blob/master/README.md -->
 <img align="left" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
 <img align="right" width="49%" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
 
@@ -116,14 +116,3 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Google](https://img.shields.io/badge/Google%20Suite-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-1A67CC.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-
-<!--
-https://github.com/anuraghazra/anuraghazra/blob/master/README.md
-https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
-https://github.com/IonicaBizau/github-profile-languages
-[![Metrics](https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg)](#)
-[![Iso Calendar](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)](#)
-[![Langs](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg)](#)
-[![Recent Langs](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg)](#)
-[![Habits](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg)](#)
--->
