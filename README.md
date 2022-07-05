@@ -7,9 +7,11 @@
 <img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
 </p>
 <p>
+  <p width="47%">
 <img align="left" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
 <img align="left" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
-<img align="right" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
+    </p>
+<img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
 </p>
 <br />
 <img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS"/>
