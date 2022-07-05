@@ -31,6 +31,7 @@
 
 ---
 
+<!-- https://www.base64-image.de/ -->
 ## 🤸️ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/melania-gottardo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](htttps://discord.gg/Mel☆#6930)
