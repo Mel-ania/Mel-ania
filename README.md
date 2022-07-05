@@ -4,10 +4,17 @@
 <img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS"/>
 <br />
 <p>
-<img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
-<img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
+  <p>
+    <img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
+    <img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
+  </p>
+  <p>
+    <img align="left" width="47%" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
+    <img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
+    <img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
+  </p>
 </p>
-<br /><br /><br />
+
 <p>
 <img align="left" width="47%" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
 <img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
