@@ -3,27 +3,21 @@
 <br />
 <img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS"/>
 <br />
-<p>
-  <p>
-    <img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
-    <img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
-  </p>
-  <p>
-    <img align="left" width="47%" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
-    <img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
-    <img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
-  </p>
-</p>
 
-<br />
+<img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
+<img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
+<img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
+<img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
-</a>
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+
+<img align="left" max-width="47%" src="https://github-readme-stats-mel-ania.vercel.app/api/top-langs/?username=mel-ania&show_icons=true&langs_count=10&show_icons=true&hide_border=true&layout=compact&bg_color=30,1076eb,2aa84b&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" />
+<img align="right" max-width="47%" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
+
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <p align='right'>
   <i>
@@ -32,8 +26,8 @@
     </sub>
   </i>
 </p>
--->
-<br /><br /><br />
+
+<br />
 
 ---
 
