@@ -15,11 +15,6 @@
   </p>
 </p>
 
-<p>
-<img align="left" width="47%" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
-<img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
-<img align="right" width="47%" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
-</p>
 <br />
 
 <!--
