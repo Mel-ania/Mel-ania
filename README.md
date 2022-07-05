@@ -7,6 +7,7 @@
 <img align="left" width="47%" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
 <img align="right" width="47%" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
 </p>
+<br /><br /><br />
 <p>
 <img align="left" width="47%" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
 <img align="left" width="47%" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
