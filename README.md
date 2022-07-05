@@ -2,16 +2,17 @@
 <h3 align="center">I'm a super creative girl with tons of ideas!</h3>
 <br />
 
-[<img align="left" width="390" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg">](#)
-[<img align="right" width="390" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg">](#)
+<img align="left" alt="Metrics" src="https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg"/>
+<img align="right" alt="Iso Calendar" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg"/>
 
-<img align="left" width="390" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg">
-<img align="left" width="390" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg">
-[<img align="right" width="390" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg">](#)
+<img align="left" alt="Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg"/>
+<img align="left" alt="Recent Langs" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.recent.svg"/>
+<img align="right" alt="Habits" src="https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.habits.charts.svg"/>
 
 <br />
-[<img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS">](#)
+<img src="https://komarev.com/ghpvc/?username=mel-ania&style=for-the-badge&label=PROFILE+VIEWS"/>
 <br />
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-mel-ania.vercel.app/api?username=mel-ania&show_icons=true&hide_border=trues&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact" />
 </a>
@@ -26,6 +27,8 @@
     </sub>
   </i>
 </p>
+-->
+<br /><br /><br />
 
 ---
 
