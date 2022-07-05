@@ -1,5 +1,9 @@
 <h1 align="center">Hi 🤙🏻️, I'm Melania</h1>
 <h3 align="center">I'm a super creative girl with tons of ideas!</h3>
+
+![Metrics](https://github.com/Mel-ania/metrics/blob/master/github-metrics.svg)
+![Iso Calendar](https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.isocalendar.fullyear.svg)
+
 <br />
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -113,4 +117,5 @@
 https://github.com/anuraghazra/anuraghazra/blob/master/README.md
 https://github.com/CircuitSacul/CircuitSacul/blob/main/README.md
 https://github.com/IonicaBizau/github-profile-languages
+https://github.com/Mel-ania/metrics/blob/master/metrics.plugin.languages.svg
 -->
